@@ -4,7 +4,9 @@ ________________________________________
 # Table of Contents
 
 •	Overview
+
 •	Repository Structure
+
 •	Datasets
 •	Embeddings
 •	Requirements
