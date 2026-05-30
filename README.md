@@ -25,7 +25,7 @@ This repository contains the primary Python scripts, training datasets, and pre-
 
 This framework addresses a core challenge in computational genomics: classifying full-length sequences (e.g., 200 bp) when only a small number of labeled examples are available (e.g., 50–100 sequences per class).
 
-The approach is based on a data augmentation strategy developed by Abbasi-Vineh et al. (2025).
+The approach is based on a data augmentation strategy developed by Abbasi-Vineh et al. (2025):[OpenAI] (DOI: 10.1038/s41598-025-12796-9)
 
 ### Key Features
 
@@ -164,14 +164,14 @@ Required libraries:
 
 ## Installation
 
-### Clone Repository
+### Option 1 — Clone Repository
 
 ```bash
 git clone https://github.com/parkingvarsson/Aggregated-DL.git
 cd Aggregated-DL
 ```
 
-### Google Colab
+### Option 2 — Google Colab
 
 Open the notebook directly in Google Colab and enable a **T4 GPU** runtime.
 
