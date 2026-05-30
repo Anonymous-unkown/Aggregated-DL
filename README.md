@@ -1,7 +1,7 @@
-Aggregated-DL
+#Aggregated-DL
 A hybrid deep learning framework for the classification of short sequences from small biological datasets. This repository contains the primary Python scripts, training datasets, and pre-computed embeddings associated with the study.
 ________________________________________
-Table of Contents
+#Table of Contents
 •	Overview
 •	Repository Structure
 •	Datasets
@@ -13,7 +13,7 @@ Table of Contents
 •	Citation
 •	License
 ________________________________________
-Overview
+#Overview
 This framework addresses a core challenge in computational genomics: classifying full-length sequences (e.g., 200 bp) when only a small number of labeled examples are available (e.g., 50–100 sequences per class). The approach is based on a data augmentation strategy that generates overlapping augmented subsequences, which has already been developed by Abbasi-Vineh et al., 2025.
 The approach combines:
 •	Overlapping subsequence augmentation — each 200 bp sequence is padded and decomposed into 240 overlapping 40-nt subsequences, dramatically expanding the training data while preserving full-length coverage.
