@@ -25,7 +25,7 @@ This repository contains the primary Python scripts, training datasets, and pre-
 
 This framework addresses a core challenge in computational genomics: classifying full-length sequences (e.g., 200 bp) when only a small number of labeled examples are available (e.g., 50–100 sequences per class).
 
-The approach is based on a data augmentation strategy developed by Abbasi-Vineh et al. (2025): DOI: 10.1038/s41598-025-12796-9
+The approach is based on a data augmentation strategy developed by Abbasi-Vineh et al. (2025): DOI: <a href="https://doi.org/10.1038/s41598-025-12796-9">10.1038/s41598-025-12796-9</a>
 
 ### Key Features
 
