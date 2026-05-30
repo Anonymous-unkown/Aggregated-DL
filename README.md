@@ -1,4 +1,4 @@
-#Aggregated-DL
+##Aggregated-DL
 A hybrid deep learning framework for the classification of short sequences from small biological datasets. This repository contains the primary Python scripts, training datasets, and pre-computed embeddings associated with the study.
 ________________________________________
 #Table of Contents
